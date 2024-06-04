@@ -1,0 +1,98 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  StdAfx.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  MtDec.c
+  MtCoder.c
+  Threads.c
+  LzmaDec.c
+  Lzma2DecMt.c
+  Lzma2Dec.c
+  DllSecur.c
+  Delta.c
+  CpuArch.c
+  BraIA64.c
+  Bra86.c
+  Bra.c
+  Bcj2.c
+  Alloc.c
+  7zCrcOpt.c
+  7zCrc.c
+  Generating Code...
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SfxSetup.cpp
+  ExtractEngine.cpp
+  ExtractCallbackSfx.cpp
+  ProgressDialog.cpp
+  FormatUtils.cpp
+  ExtractPathDialog.cpp
+  MyMessages.cpp
+  OpenArchive.cpp
+  LoadCodecs.cpp
+  DefaultName.cpp
+  ArchiveOpenCallback.cpp
+  LzmaRegister.cpp
+  LzmaDecoder.cpp
+  Lzma2Register.cpp
+  Lzma2Decoder.cpp
+  DeltaFilter.cpp
+  CopyRegister.cpp
+  CopyCoder.cpp
+  BranchRegister.cpp
+  BranchMisc.cpp
+  Generating Code...
+  Compiling...
+  BcjRegister.cpp
+  BcjCoder.cpp
+  Bcj2Register.cpp
+  Bcj2Coder.cpp
+  VirtThread.cpp
+  StreamUtils.cpp
+  StreamObjects.cpp
+  StreamBinder.cpp
+  PropId.cpp
+  ProgressUtils.cpp
+  OutBuffer.cpp
+  LimitedStreams.cpp
+  InBuffer.cpp
+  FilterCoder.cpp
+  FileStreams.cpp
+  CWrappers.cpp
+  CreateCoder.cpp
+  OutStreamWithCRC.cpp
+  ItemNameUtils.cpp
+  CoderMixer2.cpp
+  Generating Code...
+  Compiling...
+  7zRegister.cpp
+  7zIn.cpp
+  7zHandler.cpp
+  7zExtract.cpp
+  7zDecode.cpp
+  Window.cpp
+  System.cpp
+  Synchronization.cpp
+  Shell.cpp
+  ResourceString.cpp
+  PropVariant.cpp
+  FileName.cpp
+  FileIO.cpp
+  FileFind.cpp
+  FileDir.cpp
+  ErrorMsg.cpp
+  DLL.cpp
+  Dialog.cpp
+  Wildcard.cpp
+  UTFConvert.cpp
+  Generating Code...
+  Compiling...
+  TextConfig.cpp
+  StringConvert.cpp
+  NewHandler.cpp
+  MyVector.cpp
+  MyString.cpp
+  IntToString.cpp
+  CRC.cpp
+  CommandLineParser.cpp
+  Generating Code...
+7zCrc.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SFXSetup.vcxproj -> C:\git-sdk-64\usr\src\7-Zip\playground\CPP\7zip\Bundles\SFXSetup\Debug\7zSfxS.exe
